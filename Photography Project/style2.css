@@ -1,0 +1,133 @@
+h2{
+    text-align: center;
+    font-size: 40pt;
+    border: .5rem rgb(198, 177, 181) solid;
+    width: 30%;
+    margin: auto;
+    margin-bottom: 2rem;
+    border-radius: 5rem;
+    color: rgb(240, 229, 229);
+    
+}
+
+
+.LOVE1{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin: auto;
+   
+    
+    }
+    .image1{
+    float:left;
+    border: 2rem solid rgb(240, 229, 229);
+    height: 36%;
+     
+    
+    
+    }
+    .image2{
+    float: right;
+     border: 2rem solid rgb(240, 229, 229);
+     height: 36%;
+   
+    }
+
+    .image3{
+
+     
+     
+     border: 2rem solid rgb(240, 229, 229);
+     width: 41%;
+     height: 56vh;
+     
+     
+
+    }
+    .Family{
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin-top: 5rem;
+        
+
+    }
+
+    main{
+
+        background-color: black;
+        width: 100%;
+    }
+
+    .TRAVEL1{
+        display: flex;
+        flex-direction: row;
+        width: 80%;
+        justify-content: space-between;
+        margin: auto;
+       
+        
+       
+        
+
+    }
+    .travel2{
+        float:left;
+        border: 2rem solid rgb(240, 229, 229);
+        height: 36%;
+     
+        
+        
+        
+
+    }
+
+    .travel3{
+        float: right;
+        border: 2rem solid rgb(240, 229, 229);
+        height: 30%;
+       
+      
+    }
+    .TRAVEL4{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin-top: 5rem;
+
+    }
+    .travel5{
+
+        border: 2rem solid rgb(240, 229, 229);
+        width: 38%;
+        height: 42vh;
+
+    }
+    .LIVING1{
+
+        display: flex;
+        width: 80%;
+        justify-content: space-between;
+        margin: auto;
+     .living1{
+
+    float:left;
+    border: 2rem solid rgb(240, 229, 229);
+    height: 35%;
+    width: 39%;
+
+ }
+ .living2{
+    float: right;
+    border: 2rem solid rgb(240, 229, 229);
+    height: 36%;
+    
+  
+ }
+ 
+
+ 
