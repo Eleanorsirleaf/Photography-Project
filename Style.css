@@ -1,0 +1,81 @@
+
+
+
+
+
+
+header{
+    background-image: url(https://uceap.universityofcalifornia.edu/sites/default/files/marketing-images/country-page-images/switzerland-page-header.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    
+    padding: 2rem 2rem;
+    
+}  
+
+
+
+
+
+nav{
+    display: flex;
+    width:80%;
+    justify-content: space-between;
+    align-content: center;
+    padding: 2rem 2rem;
+    margin: auto;
+    
+    border-radius: 5rem;
+    box-shadow:5px 5px 5px 5px hsl(195, 13%, 48%);
+   
+
+
+    
+}
+.Paradise{
+    float: left;
+}
+.Help{
+    float: right;
+    
+    
+}
+
+.Name{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+ 
+
+
+
+
+a{
+    color: rgb(3, 3, 3);
+    
+}
+    
+h1{
+    color: rgb(33, 33, 33);
+}
+
+
+
+
+p{
+    color: beige;
+    font-size: 20pt;
+}
+.Name{
+    position: relative;
+    height: 100vh;
+}
+h2{
+font-family: 'Playwrite+IN', sans-serif;
+}
